@@ -14,7 +14,7 @@ Objetivos
 - Llamar a las acciones de la API web utilizando jQuery.
 
 
-**1: Añadir acciones y llamarlas usando un navegador
+**1: Añadir acciones y llamarlas usando un navegador**
 
 Primero se agregará un controlador y una acción a una aplicación Web API. A continuación, se ejecutará la aplicación y se verá el resultado 
 utilizando un navegador. Después de esto, se agregará un controlador y una acción que obtiene un parámetro. A continuación, 
@@ -29,7 +29,7 @@ Las principales tareas son:
 	5. Añadir una acción de publicación a una aplicación Web API
 
 
-**2: Llamar a una Web API usando el código del lado del servidor
+**2: Llamar a una Web API usando el código del lado del servidor**
 
 Llamaremos al API Web que desarrollamos en el punto anterior utilizando la clase HttpClient. 
 Para ello, primero se registra el servicio IHttpClientFactory en el archivo Startup.cs. A continuación, se crea un controlador MVC y 
@@ -46,7 +46,7 @@ Las principales tareas son:
 	5. Ejecute la aplicación
 
 
-**3: Llamar a una API Web usando jQuery
+**3: Llamar a una API Web usando jQuery**
 
 
 Primero creamos un controlador MVC y utilizamos jQuery para llamar a una acción Get en la API web. Después, se crea otro controlador MVC y
